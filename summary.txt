@@ -1,0 +1,392 @@
+  1. "Publication name"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         5
+	Longest value:         19 characters
+	Most common values:    Alistair Carmichael (1x)
+	                       Brendan O'Hara (1x)
+	                       Chris Law (1x)
+	                       Ian Blackford (1x)
+	                       Jim Shannon (1x)
+
+  2. "Constituency"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         5
+	Longest value:         26 characters
+	Most common values:    Orkney and Shetland CC (1x)
+	                       Argyll and Bute CC (1x)
+	                       Dundee West BC (1x)
+	                       Ross, Skye and Lochaber CC (1x)
+	                       Strangford (1x)
+
+  3. "Office maximum budget available"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         4
+	Smallest value:        24,880
+	Largest value:         38,550.43
+	Sum:                   146,714.55
+	Mean:                  29,342.91
+	Median:                26,924.12
+	StDev:                 5,810.147
+	Most common values:    24,880 (2x)
+	                       26,924.12 (1x)
+	                       31,480 (1x)
+	                       38,550.43 (1x)
+
+  4. "Reason for budget set"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         4
+	Longest value:         109 characters
+	Most common values:    Standard budget for renting a property in the London area (2x)
+	                       Standard budget for renting a property in the London area, plus an uplift to cover the cost of one dependant (1x)
+	                       Standard budget for renting a property in the London area, with an uplift to cover the cost of two dependants (1x)
+	                       Hotels (1x)
+
+  5. "Office spend"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         5
+	Smallest value:        21,930.89
+	Largest value:         37,867.66
+	Sum:                   141,902.15
+	Mean:                  28,380.43
+	Median:                26,902.85
+	StDev:                 6,119.747
+	Most common values:    26,902.85 (1x)
+	                       21,930.89 (1x)
+	                       30,320.75 (1x)
+	                       37,867.66 (1x)
+	                       24,880 (1x)
+
+  6. "Remaining office budget"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         5
+	Smallest value:        0
+	Largest value:         2,949.11
+	Sum:                   4,812.4
+	Mean:                  962.48
+	Median:                682.77
+	StDev:                 1,212.013
+	Most common values:    21.27 (1x)
+	                       2,949.11 (1x)
+	                       1,159.25 (1x)
+	                       682.77 (1x)
+	                       0 (1x)
+
+  7. "Staffing Maximum budget available"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        153,620
+	Largest value:         153,620
+	Sum:                   768,100
+	Mean:                  153,620
+	Median:                153,620
+	StDev:                 0
+	Most common values:    153,620 (5x)
+
+  8. "Reason for budget set_2"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         4
+	Longest value:         109 characters
+	Most common values:    Standard budget for renting a property in the London area (2x)
+	                       Standard budget for renting a property in the London area, plus an uplift to cover the cost of one dependant (1x)
+	                       Standard budget for renting a property in the London area, with an uplift to cover the cost of two dependants (1x)
+	                       Hotels (1x)
+
+  9. "Staffing Spend against budget"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         5
+	Smallest value:        130,687.68
+	Largest value:         153,027.88
+	Sum:                   732,562.37
+	Mean:                  146,512.474
+	Median:                149,863.38
+	StDev:                 9,292.984
+	Most common values:    130,687.68 (1x)
+	                       152,925.61 (1x)
+	                       146,057.82 (1x)
+	                       149,863.38 (1x)
+	                       153,027.88 (1x)
+
+ 10. "Remaining staffing budget"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         5
+	Smallest value:        592.12
+	Largest value:         22,932.32
+	Sum:                   35,537.63
+	Mean:                  7,107.526
+	Median:                3,756.62
+	StDev:                 9,292.984
+	Most common values:    22,932.32 (1x)
+	                       694.39 (1x)
+	                       7,562.18 (1x)
+	                       3,756.62 (1x)
+	                       592.12 (1x)
+
+ 11. "Wind-up Maximum Budget Available"
+
+	Type of data:          Boolean
+	Contains null values:  False
+	Unique values:         1
+	Most common values:    False (5x)
+
+ 12. "Reason for budget set_3"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         4
+	Longest value:         109 characters
+	Most common values:    Standard budget for renting a property in the London area (2x)
+	                       Standard budget for renting a property in the London area, plus an uplift to cover the cost of one dependant (1x)
+	                       Standard budget for renting a property in the London area, with an uplift to cover the cost of two dependants (1x)
+	                       Hotels (1x)
+
+ 13. "Wind-up spend"
+
+	Type of data:          Boolean
+	Contains null values:  False
+	Unique values:         1
+	Most common values:    False (5x)
+
+ 14. "Remaining wind-up budget"
+
+	Type of data:          Boolean
+	Contains null values:  False
+	Unique values:         1
+	Most common values:    False (5x)
+
+ 15. "Staff Absence Maximum budget available"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         2
+	Longest value:         8 characters
+	Most common values:    uncapped (3x)
+	                       None (2x)
+
+ 16. "Staff Absence spend"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         4
+	Smallest value:        0
+	Largest value:         18,997.72
+	Sum:                   22,870.43
+	Mean:                  4,574.086
+	Median:                740.79
+	StDev:                 8,164.86
+	Most common values:    0 (2x)
+	                       18,997.72 (1x)
+	                       740.79 (1x)
+	                       3,131.92 (1x)
+
+ 17. "Subtotal of office running costs"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         5
+	Smallest value:        157,590.53
+	Largest value:         195,376.29
+	Sum:                   897,334.95
+	Mean:                  179,466.99
+	Median:                181,039.8
+	StDev:                 14,461.179
+	Most common values:    157,590.53 (1x)
+	                       174,856.5 (1x)
+	                       195,376.29 (1x)
+	                       188,471.83 (1x)
+	                       181,039.8 (1x)
+
+ 18. "Accommodation Maximum budget available"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         4
+	Smallest value:        18,914.01
+	Largest value:         33,720
+	Sum:                   126,619.01
+	Mean:                  25,323.802
+	Median:                22,850
+	StDev:                 5,757.379
+	Most common values:    22,850 (2x)
+	                       28,285 (1x)
+	                       33,720 (1x)
+	                       18,914.01 (1x)
+
+ 19. "Reason for budget set_4"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         4
+	Longest value:         109 characters
+	Most common values:    Standard budget for renting a property in the London area (2x)
+	                       Standard budget for renting a property in the London area, plus an uplift to cover the cost of one dependant (1x)
+	                       Standard budget for renting a property in the London area, with an uplift to cover the cost of two dependants (1x)
+	                       Hotels (1x)
+
+ 20. "Accommodation spend"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         5
+	Smallest value:        13,596
+	Largest value:         28,458.34
+	Sum:                   106,882.85
+	Mean:                  21,376.57
+	Median:                22,775.73
+	StDev:                 5,518.513
+	Most common values:    13,596 (1x)
+	                       28,458.34 (1x)
+	                       23,138.77 (1x)
+	                       22,775.73 (1x)
+	                       18,914.01 (1x)
+
+ 21. "Remaining accommodation budget"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         5
+	Smallest value:        -288.77
+	Largest value:         14,689
+	Sum:                   19,736.16
+	Mean:                  3,947.232
+	Median:                74.27
+	StDev:                 6,435.011
+	Most common values:    14,689 (1x)
+	                       5,261.66 (1x)
+	                       -288.77 (1x)
+	                       74.27 (1x)
+	                       0 (1x)
+
+ 22. "Travel and Subsistence Maximum budget available"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         8 characters
+	Most common values:    uncapped (5x)
+
+ 23. "Travel and Subsistence Spend"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         5
+	Smallest value:        41,351.79
+	Largest value:         57,574.81
+	Sum:                   231,577.31
+	Mean:                  46,315.462
+	Median:                44,580.17
+	StDev:                 6,505.923
+	Most common values:    57,574.81 (1x)
+	                       44,580.17 (1x)
+	                       41,351.79 (1x)
+	                       45,533.17 (1x)
+	                       42,537.37 (1x)
+
+ 24. "Other Costs Maximum budget available"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         8 characters
+	Most common values:    uncapped (5x)
+
+ 25. "Other Costs spend"
+
+	Type of data:          Boolean
+	Contains null values:  False
+	Unique values:         1
+	Most common values:    False (5x)
+
+ 26. "Subtotal of other parliamentary costs"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         5
+	Smallest value:        61,451.38
+	Largest value:         73,038.51
+	Sum:                   338,460.16
+	Mean:                  67,692.032
+	Median:                68,308.9
+	StDev:                 4,750.327
+	Most common values:    71,170.81 (1x)
+	                       73,038.51 (1x)
+	                       64,490.56 (1x)
+	                       68,308.9 (1x)
+	                       61,451.38 (1x)
+
+ 27. "Overall total spend for 2018-19"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         5
+	Smallest value:        228,761.34
+	Largest value:         259,866.85
+	Sum:                   1,235,795.11
+	Mean:                  247,159.022
+	Median:                247,895.01
+	StDev:                 12,398.299
+	Most common values:    228,761.34 (1x)
+	                       247,895.01 (1x)
+	                       259,866.85 (1x)
+	                       256,780.73 (1x)
+	                       242,491.18 (1x)
+
+ 28. "Contingency amount applied for"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         3
+	Smallest value:        0
+	Largest value:         6,600
+	Sum:                   8,644.12
+	Mean:                  1,728.824
+	Median:                0
+	StDev:                 2,863.314
+	Most common values:    0 (3x)
+	                       2,044.12 (1x)
+	                       6,600 (1x)
+
+ 29. "Type of request"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         2
+	Longest value:         33 characters
+	Most common values:    None (3x)
+	                       Uplift to the Office Costs Budget (2x)
+
+ 30. "Contingency amount granted "
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         3
+	Smallest value:        0
+	Largest value:         6,600
+	Sum:                   8,644.12
+	Mean:                  1,728.824
+	Median:                0
+	StDev:                 2,863.314
+	Most common values:    0 (3x)
+	                       2,044.12 (1x)
+	                       6,600 (1x)
+
+Row count: 5

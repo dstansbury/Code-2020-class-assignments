@@ -1,0 +1,5 @@
+1.) we created a programme to filter a large data set down to a smaller one, looking for large expenditures on water.
+2.) we ran the programme using data obtained from a website.
+3.) we took the output from our programme and put it into a new file, in CSV format.
+4.) we inspected the different parts of the file for important info using csvstat
+5.) inspecting the csv data in an excel file we can see that some members expensed over $1000 on water in a single year.
